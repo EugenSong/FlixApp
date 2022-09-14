@@ -39,11 +39,10 @@ Describe any challenges encountered while building the app.
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src= "https://i.imgur.com/uytf7qB.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
 
-I did not run into any major problems while working on this app. The work-along tutorials in addition to the Yelpy lab helped me familiarize the concepts associated with UITableView and data fetching via API, methods I had not worked with prior to this course. The only difficult 
+I did not run into any major problems while working on this app. The work-along tutorials in addition to the Yelpy lab helped me familiarize myself with the concepts associated with UITableView and data fetching via API, methods I had not worked with prior to this course. I continue to work on internalizing what I am learning to not forget how to do it. 
