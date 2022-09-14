@@ -37,7 +37,11 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src= "https://i.imgur.com/ut3oLnH.gif" width="250"/><br>
+<img src= "https://i.imgur.com/ut3oLnH.gif" width="250">
 
 ![](https://i.imgur.com/mMkpa6K.gif)
 
+### Notes
+Describe any challenges encountered while building the app.
+
+I did not run into any major problems while working on this app. The work-along tutorials in addition to the Yelpy lab helped me familiarize myself with the concepts associated with UITableView and data fetching via API, methods I had not worked with prior to this course. I continue to work on internalizing what I am learning to not forget how to do it. 
