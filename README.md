@@ -35,8 +35,8 @@ The most difficult task was being able to recall how I am able to pass data from
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [x] (2pt) User can view the app on various device sizes and orientations.
-- [x] (1pt) Run your app on a real device.
+- [] (2pt) User can view the app on various device sizes and orientations.
+- [] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
